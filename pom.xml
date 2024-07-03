@@ -10,8 +10,8 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>AbychuelaMagicaReactive</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>abychuelaaagicareactive</artifactId>
+	<version></version>
 	<name>AbychuelaMagicaReactive</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
